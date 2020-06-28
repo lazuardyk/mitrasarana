@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Playfair Display";
+    src: url(../fonts/PlayfairDisplay-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Playfair Display Bold";
+    src: url(../fonts/PlayfairDisplay-Bold.ttf);
+}
+
+.font-playfair {
+    font-family: "Playfair Display";
+}
+
+.font-playfair-bold {
+    font-family: "Playfair Display Bold";
+}
+
+.font-roboto {
+    font-family: "Roboto";
+}
+    

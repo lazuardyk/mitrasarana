@@ -1,0 +1,10 @@
+.our-products {
+    border: 2px solid black !important;
+    display: inline;
+    border-radius: 2px;
+    padding: 10px;
+}
+
+.navbar {
+    background-color: rgb(71, 37, 194);
+}
